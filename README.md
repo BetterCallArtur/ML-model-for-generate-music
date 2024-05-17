@@ -5,11 +5,10 @@
 
 ## Установка
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ## Использование
 Запустите главный скрипт для выполнения всех этапов:
-```python main.py
 
 
 
